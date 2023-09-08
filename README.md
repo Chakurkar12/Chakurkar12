@@ -1,3 +1,4 @@
+![logo](https://github.com/Chakurkar12/Chakurkar12/blob/main/Bannerforgithub.jpg)
 <h1 align="center">Hi 👋, I'm Atharv Chakurkar</h1>
 <h3 align="center">Artificial Intelligence and Data Science Enthusiast</h3>
 <img align="right" alt = "coding" width ="400" src = "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
