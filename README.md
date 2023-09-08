@@ -3,7 +3,8 @@
 <h3 align="center">Artificial Intelligence and Data Science Enthusiast</h3>
 <br>
 <hr>
-<img align="right" alt = "coding" width ="50%" src = "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img align="right" alt = "coding" width ="50%" src = "https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakurkar12&label=Profile%20views&color=0e75b6&style=flat" alt="chakurkar12" /> </p>
 
